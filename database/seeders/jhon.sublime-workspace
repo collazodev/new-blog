@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"b",
+				"blue"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"ph",
+				"phpversion()"
+			],
+			[
+				"border-bottom-",
+				"border-bottom-width"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"13",
+				"139"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"f",
+				"float: left;"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"te",
+				"text-align:"
+			],
+			[
+				"2",
+				"26"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pa",
+				"pad"
+			],
+			[
+				"r",
+				"required"
+			],
+			[
+				"Do",
+				"Documentos"
+			],
+			[
+				"L",
+				"label"
+			],
+			[
+				"F",
+				"Fecha"
+			],
+			[
+				"D",
+				"Document"
+			],
+			[
+				"vi",
+				"viajes"
+			],
+			[
+				"R",
+				"Registro"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"BR",
+				"br"
+			],
+			[
+				"P",
+				"p"
+			],
+			[
+				"art",
+				"articulo"
+			],
+			[
+				"MA",
+				"mark"
+			],
+			[
+				"U",
+				"ul"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ar",
+				"articulo"
+			],
+			[
+				"arti",
+				"articulo"
+			],
+			[
+				"A",
+				"auto"
+			],
+			[
+				"10",
+				"10px"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fr",
+				"for"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 282,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"l",
+				"Live Server: Start"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/USUARIO1/Desktop/www/blogBahia",
+		"/C/Users/USUARIO1/Desktop/www/blogBahia/app",
+		"/C/Users/USUARIO1/Desktop/www/blogBahia/app/Models",
+		"/C/Users/USUARIO1/Desktop/www/blogBahia/database"
+	],
+	"file_history":
+	[
+		"/C/Users/USUARIO1/Desktop/www/blogBahia/node_modules/bootstrap/scss/bootstrap.scss",
+		"/C/Users/USUARIO1/Desktop/phpfundamentos/main.php",
+		"/C/Users/USUARIO1/AppData/Roaming/Sublime Text/Packages/User/Terminal.sublime-settings",
+		"/C/Users/USUARIO1/AppData/Roaming/Sublime Text/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/USUARIO1/AppData/Roaming/Sublime Text/Packages/User/Package Control Messages",
+		"/C/Users/USUARIO1/Documents/index.html",
+		"/C/Users/USUARIO1/Documents/styles.css",
+		"/C/Users/USUARIO1/Desktop/Prueba/estilos.css",
+		"/C/Users/USUARIO1/Desktop/Prueba/index.html",
+		"/C/Users/USUARIO1/Desktop/Proyecto_GIT/index.html",
+		"/C/Users/USUARIO1/Desktop/Proyecto_GIT/primer_curse/index.html",
+		"/C/Users/USUARIO1/Desktop/Proyecto_GIT/primer_curse/estilos.css",
+		"/C/Users/USUARIO1/Desktop/Proyecto_GIT/estilos.css",
+		"/C/Users/USUARIO1/Desktop/Desarrollo_web/fichero.html",
+		"/C/Users/USUARIO1/Desktop/Desarrollo_web/fichero2.html",
+		"/C/xampp/htdocs/php_diplomado/op_aritmeticos.php",
+		"/C/xampp/htdocs/php_diplomado/operadores_aritmeticos",
+		"/C/Users/USUARIO1/Desktop/diplomado_virtual/ope_aritmeticos.php",
+		"/C/Users/USUARIO1/web",
+		"/C/Users/USUARIO1/jhon",
+		"/C/Users/USUARIO1/Desktop/la web",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/index.html",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/estilos.css",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/bodega_imagenes/turista.png",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/bodega_imagenes/paisa.png",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/bodega_imagenes/logo.png",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/bodega_imagenes/eco.png.jpg",
+		"/C/Users/USUARIO1/Desktop/Pagina web.Ec/bodega_imagenes/ecosistema.png",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/index.html",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/index.css",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/estilos.css",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/laboratorio.html",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/imagenes",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/src",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/index.php",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/gsf.php",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/css",
+		"/C/Users/USUARIO1/Desktop/Vistas_Ecomanglar/in.py/nombre.css/registro.html",
+		"/C/Users/USUARIO1/Desktop/prueva_bo/index.html",
+		"/C/Users/USUARIO1/Desktop/Pagina_Personal/registr.html",
+		"/C/Users/USUARIO1/Desktop/Pagina_Personal/css/estyles.css",
+		"/C/Users/USUARIO1/Desktop/Pagina_Personal/css/index.py",
+		"/C/Users/USUARIO1/Desktop/Pagina_Personal/rwtf.css",
+		"/C/Users/USUARIO1/Desktop/Pagina_Personal/collazo/html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\USUARIO1\\Desktop\\www\\blogBahia"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DatabaseSeeder.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boos",
+				"node_modules\\bootstrap\\scss\\bootstrap.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

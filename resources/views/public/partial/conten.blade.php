@@ -1,6 +1,3 @@
-@extends('public.partial.master');
-@section('conten')
-
 <section class="showcase">
             <div class="container-fluid p-0">
                 <div class="row g-0">
@@ -26,4 +23,3 @@
                 </div>
             </div>
         </section>
-@endsection
